@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\newCryptocop\template\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\bin\Debug\net6.0\Cryptocop.Software.API.Repositories.deps.json
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\newCryptocop\template\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\bin\Debug\net6.0\Cryptocop.Software.API.Repositories.dll
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\newCryptocop\template\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\bin\Debug\net6.0\Cryptocop.Software.API.Repositories.pdb
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\newCryptocop\template\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\bin\Debug\net6.0\Cryptocop.Software.API.Models.dll
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\newCryptocop\template\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\bin\Debug\net6.0\Cryptocop.Software.API.Models.pdb
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\newCryptocop\template\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\obj\Debug\net6.0\Cryptocop.Software.API.Repositories.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\newCryptocop\template\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\obj\Debug\net6.0\Cryptocop.Software.API.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\newCryptocop\template\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\obj\Debug\net6.0\Cryptocop.Software.API.Repositories.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\newCryptocop\template\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\obj\Debug\net6.0\Cryptocop.Software.API.Repositories.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\newCryptocop\template\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\obj\Debug\net6.0\Cryptocop.Software.API.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\newCryptocop\template\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\obj\Debug\net6.0\Cryptocop.Software.API.Repositories.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\newCryptocop\template\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\obj\Debug\net6.0\Cryptocop.Software.API.Repositories.dll
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\newCryptocop\template\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\obj\Debug\net6.0\refint\Cryptocop.Software.API.Repositories.dll
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\newCryptocop\template\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\obj\Debug\net6.0\Cryptocop.Software.API.Repositories.pdb
+C:\Users\Lenovo\OneDrive\Documents\Haustonn2022\VEFT\newCryptocop\template\Cryptocop.Software.API\Cryptocop.Software.API.Repositories\obj\Debug\net6.0\ref\Cryptocop.Software.API.Repositories.dll
